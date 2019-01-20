@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "description": "My name is Thien Boss !",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
