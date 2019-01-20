@@ -1,9 +1,10 @@
-function Cat(){
+function Cat(name){
+	this.name = name;
 	this.stomach = [];
-	var x;
+	
 }
 
-this.prototype.eat = function(mouse){
+Cat.prototype.eat = function(mouse){
 	this.stomach.push(mouse);
 };
 
